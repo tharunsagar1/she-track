@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391296097434",
+    "project_id": "shetrack-67b0d",
+    "storage_bucket": "shetrack-67b0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391296097434:android:3bbed1d7e0530b37e45323",
+        "android_client_info": {
+          "package_name": "com.example.shetrackv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNHvNKaQ2gbQp12U7l60tiuAPCTQrc2vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
