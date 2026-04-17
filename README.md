@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shetrackv1
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# she-track
+>>>>>>> 2af7483a13c5c19bae50e8d9eb649947adb3df63
